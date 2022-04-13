@@ -3,7 +3,7 @@
 AVL Tree data structure implemented using Java.
 
 Methods:
--put(T data): void
--delete(T data): void
--height(): int
--size(): int
+- put(T data): void <br>
+- delete(T data): void <br>
+- height(): int <br>
+- size(): int <br>
